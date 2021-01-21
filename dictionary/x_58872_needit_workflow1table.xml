@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Workflow1Table" max_length="40" name="x_58872_needit_workflow1table" sizeclass="3" type="collection">
+        <element label="wf1Number" max_length="40" name="wf1number" type="string"/>
+        <element display="true" label="wf2Number" max_length="40" name="wf2number" type="string"/>
+    </element>
+</database>
